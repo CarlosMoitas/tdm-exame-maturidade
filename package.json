@@ -1,3 +1,5 @@
 "scripts": {
   "start": "tsx server/index.ts"
+  "tsx": "^4.x.x"
+
 }
